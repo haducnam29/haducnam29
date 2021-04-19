@@ -1,0 +1,84 @@
+body{
+width: 1000px;
+}
+.group{
+    display: flex;
+    
+}
+.wap {
+    width: 60%;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    
+    
+    
+}
+.aside{
+    width: 40%;
+    background-color: teal;
+    border: 2px solid red;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+height: 80px;
+background-color: royalblue;
+display: flex;
+justify-content: center;
+}
+.nav{
+    height: 40px;
+    background-color: sienna;
+    display: flex;
+justify-content: center;
+}
+.the1{
+width: 30%;
+background-color: blue;
+border: 2px solid red;
+margin: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.footer{
+    height: 40px;
+    background-color: thistle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* .the2{
+width: 33.333%;
+background-color: rgb(23, 23, 44);
+margin: 3px;
+
+}
+.the3{
+width: 33.333%;
+background-color: rgb(126, 39, 82);
+margin: 3px;
+}
+.the4{
+width: 33.333%;
+background-color: rgb(32, 138, 94);
+margin: 3px;
+}
+.the5{
+width: 33.333%;
+background-color: rgb(166, 166, 190);
+margin: 3px;
+}
+.the6{
+width: 33.333%;
+background-color: rgb(103, 103, 126);
+margin: 3px;
+} */
